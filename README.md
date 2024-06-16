@@ -1,9 +1,9 @@
-# myfirste_book
+# My first E-book
 E-book production
 
 Criar um eBook envolve várias etapas, desde a concepção da ideia até a publicação. Com o auxilio da IA se pode agilizar este processo usando ferramentas especificas e nunca esquecendo a diagramação humana super importante, por isso a importancia de trabalhar com um conteudo que dominamos para poder corrigir possiveis falhas da IA. Aqui está um guia passo a passo para produzir um eBook, incluindo algumas dicas de diagramação.
 
-Etapa 1: Planejamento e Pesquisa
+Planejamento e Pesquisa
 Escolha do Tópico:
 
 Defina claramente o assunto do seu eBook.
@@ -15,7 +15,8 @@ Anote fontes e referências que possam ser úteis.
 Esboço:
 
 Crie um esboço do conteúdo, dividindo-o em capítulos ou seções.
-Etapa 2: Redação do Conteúdo
+
+Redação do Conteúdo
 Introdução:
 
 Escreva uma introdução que cative o leitor e explique o que ele pode esperar do eBook.
@@ -24,7 +25,8 @@ Desenvolvimento:
 Redija o conteúdo principal, seguindo o esboço previamente criado.
 Utilize uma linguagem clara e objetiva.
 Inclua exemplos, dados e citações relevantes.
-Conclusão:
+
+E redigir uma conclusão coerente e plausivel.
 
 Resuma os principais pontos abordados.
 Encoraje o leitor a tomar alguma ação, como aplicar o que aprendeu ou visitar um site.
